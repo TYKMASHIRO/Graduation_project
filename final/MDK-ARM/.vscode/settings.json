@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "common_debug.h": "c",
+        "inf_ds3553.h": "c",
+        "common_util.h": "c",
+        "inf_at6558r.h": "c",
+        "common_config.h": "c",
+        "inf_qs100.h": "c",
+        "string.h": "c",
+        "app_communication.h": "c",
+        "app_stepcount.h": "c",
+        "app_lowpower.h": "c",
+        "inf_lora.h": "c"
+    }
+}
