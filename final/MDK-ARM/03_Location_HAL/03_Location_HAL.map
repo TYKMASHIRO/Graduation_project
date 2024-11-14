@@ -3387,44 +3387,44 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-      1676        546          0          2       1024       4889   app_communication.o
-       108         10          0          0          0       1169   app_lowpower.o
-        22          0          0          0          0       1517   app_stepcount.o
-      2736        120          0         20          0      27162   cjson.o
-        36          6          0          0          0       1120   common_debug.o
-       464        126          0          0          0       3079   common_util.o
-       156         56        151          0          0       2519   ebyte_callback.o
-         0          0         32          0          0       1307   ebyte_core.o
-      2098         92        200          8        275      36689   ebyte_e220x.o
-       220         28          0          0          0       4269   ebyte_port.o
-       240         14          0          0          0       1095   gpio.o
-       176         24          0          0         84       1841   i2c.o
-       864        302          0          2       1124       4386   inf_at6558r.o
-       128         10          0          0          0       1699   inf_ds3553.o
-       404        142          0          0          0       2737   inf_lora.o
-      1422        458          0          4       1458       8552   inf_qs100.o
-      1394        334          0          0        432     421853   main.o
-       108         22          0          0         20       1715   rtc.o
-       200         20          0          0         88       1869   spi.o
-        36          8        236          0       2048        840   startup_stm32f103xb.o
-       228         54          0          9          0       8042   stm32f1xx_hal.o
-       304         22          0          0          0      29827   stm32f1xx_hal_cortex.o
-       262          4          0          0          0       1927   stm32f1xx_hal_dma.o
-       828         34          0          0          0       3547   stm32f1xx_hal_gpio.o
-      2426         40          0          0          0       9218   stm32f1xx_hal_i2c.o
-        84          8          0          0          0       1010   stm32f1xx_hal_msp.o
-        52         12          0          0          0       1150   stm32f1xx_hal_pwr.o
-      1748         98         18          0          0       6432   stm32f1xx_hal_rcc.o
-       556         34         18          0          0       2545   stm32f1xx_hal_rcc_ex.o
-      1424          8          0          0          0      12033   stm32f1xx_hal_rtc.o
-      1022          6          0          0          0       4765   stm32f1xx_hal_spi.o
-      2126          8          0          0          0      13097   stm32f1xx_hal_uart.o
-        66         12          0          0          0       5494   stm32f1xx_it.o
-         2          0         24          4          0       1295   system_stm32f1xx.o
-       600         64          0          0        216       3925   usart.o
+      1676        546          0          2       1024       4385   app_communication.o
+       108         10          0          0          0       1045   app_lowpower.o
+        22          0          0          0          0       1329   app_stepcount.o
+      2736        120          0         20          0      25470   cjson.o
+        36          6          0          0          0        992   common_debug.o
+       464        126          0          0          0       2767   common_util.o
+       156         56        151          0          0       2263   ebyte_callback.o
+         0          0         32          0          0       1115   ebyte_core.o
+      2098         92        200          8        275      33789   ebyte_e220x.o
+       220         28          0          0          0       3837   ebyte_port.o
+       240         14          0          0          0        967   gpio.o
+       176         24          0          0         84       1589   i2c.o
+       864        302          0          2       1124       3882   inf_at6558r.o
+       128         10          0          0          0       1511   inf_ds3553.o
+       404        142          0          0          0       2421   inf_lora.o
+      1422        458          0          4       1458       7676   inf_qs100.o
+      1394        334          0          0        432     420725   main.o
+       108         22          0          0         20       1471   rtc.o
+       200         20          0          0         88       1617   spi.o
+        36          8        236          0       2048        800   startup_stm32f103xb.o
+       228         54          0          9          0       7362   stm32f1xx_hal.o
+       304         22          0          0          0      29383   stm32f1xx_hal_cortex.o
+       262          4          0          0          0       1743   stm32f1xx_hal_dma.o
+       828         34          0          0          0       3295   stm32f1xx_hal_gpio.o
+      2426         40          0          0          0       8658   stm32f1xx_hal_i2c.o
+        84          8          0          0          0        886   stm32f1xx_hal_msp.o
+        52         12          0          0          0       1030   stm32f1xx_hal_pwr.o
+      1748         98         18          0          0       5932   stm32f1xx_hal_rcc.o
+       556         34         18          0          0       2357   stm32f1xx_hal_rcc_ex.o
+      1424          8          0          0          0      11021   stm32f1xx_hal_rtc.o
+      1022          6          0          0          0       4453   stm32f1xx_hal_spi.o
+      2126          8          0          0          0      12089   stm32f1xx_hal_uart.o
+        66         12          0          0          0       4798   stm32f1xx_it.o
+         2          0         24          4          0       1107   system_stm32f1xx.o
+       600         64          0          0        216       3477   usart.o
 
     ----------------------------------------------------------------------
-     24242       2722        714         52       6772     634614   Object Totals
+     24242       2722        714         52       6772     617242   Object Totals
          0          0         32          0          0          0   (incl. Generated)
         26          0          3          3          3          0   (incl. Padding)
 
@@ -3507,8 +3507,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     31698       2932        802         64       6816     625622   Grand Totals
-     31698       2932        802         64       6816     625622   ELF Image Totals
+     31698       2932        802         64       6816     608250   Grand Totals
+     31698       2932        802         64       6816     608250   ELF Image Totals
      31698       2932        802         64          0          0   ROM Totals
 
 ==============================================================================
